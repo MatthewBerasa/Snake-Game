@@ -1,12 +1,18 @@
 Classic Snake Game with local multiplayer option + customizable settings
 
 Game Menu
-![Screenshot (1)](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/d34f73de-cc48-4156-8a9a-a9d2e034c8c3)
+![s1](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/e9ec9b35-b3e8-488b-a280-f85788aab1dd)
+
 
 Options Menu
-![Screenshot (2)](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/32ce8e8a-b993-4d93-9d49-7adc44f21893)
+![s2](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/ef707aa2-dd26-43cf-818e-f28f5031128b)
 
 Game
-![Screenshot (3)](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/703af386-3027-405a-beb5-ab8e81931384)
+![s3](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/3daa6f47-7c65-47ec-a464-adfa5b768b61)
+
+Game Over Screen
+![s4](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/318fd994-0e26-4f0d-bc4e-c2a8c991ea2b)
+
+
 
 
