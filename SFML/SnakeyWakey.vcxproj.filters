@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Apple.cpp" />
+    <ClCompile Include="GameBoard.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Options.cpp" />
+    <ClCompile Include="Snake.cpp" />
+    <ClCompile Include="SoundFX.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Apple.h" />
+    <ClInclude Include="GameBoard.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Options.h" />
+    <ClInclude Include="Snake.h" />
+    <ClInclude Include="SoundFX.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\Users\12676\Downloads\button.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\SnakeC++\Snake-Game\Images\Grass.jpg" />
+    <Image Include="..\..\SnakeC++\Snake-Game\Images\Apple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\source\repos\Project1\Snake\Fonts\Menu_Font.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\Users\12676\Downloads\button.ogg" />
+    <None Include="..\..\..\Users\12676\Downloads\music.ogg" />
+    <None Include="..\..\..\Users\12676\Downloads\ping.ogg" />
+  </ItemGroup>
+</Project>
