@@ -1,8 +1,7 @@
 Classic Snake Game with local multiplayer option + customizable settings
 
 Game Menu
-![s1](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/e9ec9b35-b3e8-488b-a280-f85788aab1dd)
-
+![s1](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/d74be703-daac-404c-ba49-b01ec281a266)
 
 Options Menu
 ![s2](https://github.com/MatthewBerasa/Snake-Game/assets/136840793/ef707aa2-dd26-43cf-818e-f28f5031128b)
